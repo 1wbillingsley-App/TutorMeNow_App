@@ -1,1 +1,1 @@
-// TutorMeNow App
+// TutorMeNow main app code
